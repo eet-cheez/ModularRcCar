@@ -9,6 +9,11 @@ I was also kind of inspired by block building games like bad piggies where parts
 <img width="806" height="1117" alt="Screenshot 2025-12-06 203448" src="https://github.com/user-attachments/assets/b810440d-b01f-4f14-8a50-ce8a4ae0f2ac" />
 <img width="1362" height="663" alt="Screenshot 2025-12-06 202934" src="https://github.com/user-attachments/assets/57c57811-57b5-4905-af2e-274ac031ded8" />
 
+### Wiring Diagram
+The common wiring for a brushless vehicle:
+
+<img width="600" height="620" alt="image" src="https://github.com/user-attachments/assets/090269d6-c9aa-4b0f-bef1-eb195d29c492" />
+
 ## BOM
 
 |Item                                                                                                |Use                                 |Quantity        |Cost              |
@@ -30,3 +35,4 @@ I was also kind of inspired by block building games like bad piggies where parts
 |                                                                                                    |                                    |                |$29.80            |
 |Part Links:                                                                                         |                                    |                |                  |
 |https://docs.google.com/spreadsheets/d/1AcY698PLFffA0q1e-Y2WCfLOv4BKUpn4qy4Ves_bDmw/edit?usp=sharing|                                    |                |                  |
+
